@@ -1,0 +1,12 @@
+# Prototipo Figma
+
+Puedes ver el prototipo interactivo aquí:  
+👉 (https://www.figma.com/design/KDMUnu3C7X5i7OokNIkWp0/Untitled?node-id=0-1&t=O9gGnRzJSqidQGlR-1)
+
+Incluye las siguientes pantallas:
+- Login
+- Dashboard Usuario
+- Dashboard Admin
+- Carrito de Compra
+- Historial de Compra
+- Lista de Deseos
